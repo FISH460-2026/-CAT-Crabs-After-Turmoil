@@ -18,6 +18,9 @@ Materials
 - Ice Bath
 - Float/Structure for Speaker i.e. Whole Foods Plastic Soup Container
 
+  Link to Powerpoint Presentation
+  https://1drv.ms/p/c/348288a084c2bdfa/IQAY-3b8_3sRQ6BGjY_T50SWAbTGmgDNzT0xQAJazs_UI1s?e=MFaD4D
+
 
 Shared Google Sheet for Data
 https://docs.google.com/spreadsheets/d/1Gx_Va0bCMeaaqfYAjnYkFFHsf09ImRwjqoAfvPCMs7w/edit?usp=sharing
